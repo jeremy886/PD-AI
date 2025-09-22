@@ -9,3 +9,4 @@
 - [Object-Oriented Programming in Python](https://github.com/ariannedee/oop-python)
 - https://github.com/EnkrateiaLucca/oreilly-python-course
 - [GitHub Copilot for Developers](https://github.com/timothywarner/copilot-dev)
+- [Implementing AI Agents in Python](https://github.com/skillrepos/ai-aip)
